@@ -1,0 +1,57 @@
+.wrapper {
+    max-width: 800px; 
+    margin: auto; 
+    padding: 0px 50px 0px 50px; 
+    box-sizing: border-box; 
+    position: relative;
+    background-color: peachpuff;
+    color: #c293be;
+  }
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-width: 150px;
+    float: left;
+    margin-right: 10px;
+  }
+
+h1 {
+    position: relative;
+    z-index: 1;
+    background-color: palevioletred; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border-top: 80px;
+    border-top: 15px solid peachpuff; 
+    border-bottom: 15px solid peachpuff; 
+    padding: 10px; 
+  }
+  
+p{
+    font-weight: bold;
+}
+  dl {
+    font-size: 1.15rem;
+    background-color: palevioletred; 
+    border-top: 15px solid peachpuff; 
+    border-bottom: 15px solid peachpuff; 
+    padding: 10px; 
+    color: #fff;
+  }
+  
+  dt {
+    font-weight: bold;
+    
+  }
+  
+  dd {
+    margin-top: 0;
+  }
+  
+  dt, dd {
+    text-align: left;
+    margin-left: 0;
+  }
+
+  
